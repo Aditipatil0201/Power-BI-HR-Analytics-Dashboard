@@ -26,3 +26,5 @@ Key Features:
 
 📊 This dashboard helps HR teams identify patterns to improve retention and employee engagement.
 Would you like me to write the exact GitHub README file cont
+
+https://github.com/Aditipatil0201/Power-BI-HR-Analytics-Dashboard/blob/main/Hr%20Analytics.png
